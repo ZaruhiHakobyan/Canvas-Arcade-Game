@@ -1,0 +1,41 @@
+
+#ball{
+	position: relative;
+	top: 640px;
+	left: auto;
+	height: 30px;
+	width: 30px;
+}
+
+#board{
+	position: absolute;
+	top: 670px;
+	left: auto;
+	height: 30px;
+	width: 150px;
+}
+
+#gameDiv{
+	position:relative;
+	display:block;
+	width: 800px;
+	height: 700px;
+	border: 1px solid grey;
+}
+
+.square{
+	background-color: green;
+	border-radius: 5px;
+	position:relative;
+	margin-left: 5px;
+	margin-top: 5px;
+	display:block;
+	float: left;
+	width: 100px;
+	height: 50px;
+}
+
+
+#canvas-wrap {
+  position:relative;
+}

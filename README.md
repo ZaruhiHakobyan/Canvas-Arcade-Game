@@ -1,4 +1,4 @@
-# Canvas-Arcade-Game
+# Canvas-Arkanoid-Game
 
 * open index.html with any browser you want
 * move the board left/right by pressing and/or holding coresponding arrow keys on keyboard
